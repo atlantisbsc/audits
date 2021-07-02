@@ -14,7 +14,7 @@ As mentioned above, the audit will be performed by experienced developers under 
 - Owner state (Who owns the contract, Suspicious transactions)
 - Liquidity state (Locked, Unlocked, Unlockable)
 - In case of charity type contract, charity wallet review (Is it MULTISIG, Suspicious transactions, Developers behind the project will be required to explain and justify every transaction)
--Whales review
+- Whales review
 - Overpowered functionalities that can be used in favor of the owner by abusing holders.
 
 **Note, you hereby agree that: The quality of the above checks isn't guaranteed, in case of an error from our side, project owners have the right to protest the certain case or require several revisions.**
