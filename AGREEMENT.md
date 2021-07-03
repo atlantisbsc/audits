@@ -37,6 +37,6 @@ You hereby agree that Mars Crater(s) have absolute rights to:
 - Share the information, nonetheless if project owner agrees to this proposition or not
 - Not justify or give any reasons in case of audit rejection or cancellation
 
-Information used in this technical audit is "AS IS", Mars Crater(s) will NEVER modify information give by audit requesters. 
+Information used in this technical audit is "AS IS", Mars Crater(s) will NEVER modify information given by audit requesters. 
 
 Not valid unless signed by both parties.
