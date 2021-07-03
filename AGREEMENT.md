@@ -1,4 +1,10 @@
+# AGREEMENT 
+
+*Copyright © 2021 Mars Crater(s)*
+
 By requesting our technical review of your project, you are hereby agreeing to be fully bound by all the provisions herein of these Terms and Conditions. If you do not agree to any provision therein the Agreement, you must immediately inform us before digitally signing.
+
+**After performing PGP signature, you do not have any permissions of requesting modifications in this agreement.**
 
 ## Company
 
@@ -21,7 +27,7 @@ As mentioned above, the audit will be performed by experienced developers under 
 
 The timeframe isn't specified, it will depend on project size. 
 
-## Data disclosure
+## Data and disclosure
 
 You hereby agree that Mars Crater(s) have absolute rights to:
 
@@ -31,5 +37,6 @@ You hereby agree that Mars Crater(s) have absolute rights to:
 - Share the information, nonetheless if project owner agrees to this proposition or not
 - Not justify or give any reasons in case of audit rejection or cancellation
 
-Made by: Mars Crater(s) developers, on 02/07/2021
+Information used in this technical audit is "AS IS", Mars Crater(s) will NEVER modify information give by audit requesters. 
+
 Not valid unless signed by both parties.
