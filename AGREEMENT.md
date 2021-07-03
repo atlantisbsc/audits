@@ -2,7 +2,7 @@ By requesting our technical review of your project, you are hereby agreeing to b
 
 ## Company
 
-Mars Crater(s), isn't specialized, nor certified in technical overviews. The review will be performed by developers with significant and demonstrated experience. Mars Crater(s) has a personal userbase, high trust score, and an audit from trusted sources. 
+Mars Crater(s), isn't specialized in technical overviews. The review will be performed by developers with significant and demonstrated experience. Mars Crater(s) has a personal userbase, high trust score, and an audit from trusted sources. 
 
 ## Audit
 As mentioned above, the audit will be performed by experienced developers under the test-driven environment with industry-standard tools and traditions, this will include:
