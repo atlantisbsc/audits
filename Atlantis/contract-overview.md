@@ -168,8 +168,7 @@ In this function (and in several other functions), there is a for loop that will
 
 To conclude, the contract contains minor security issues but remember, always DYOR! Nothing is guaranteed. 
 
-[![marscrater-audit-approved-white.png](https://i.postimg.cc/BQp3B8MM/marscrater-audit-approved-white.png)](https://postimg.cc/MvngWGkQ)
-
+[![marscrater-audit-approved-black-1.png](https://i.postimg.cc/g2dTNdgs/marscrater-audit-approved-black-1.png)](https://postimg.cc/BXYpvW9P)
 ---------------------------------------------------------------------------------------------------------
 
 **Check out Mars Craters**
